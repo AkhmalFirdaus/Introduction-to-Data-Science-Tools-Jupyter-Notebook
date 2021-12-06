@@ -2,7 +2,7 @@
 A short brief to getting familiar and customization of basic Jupyter Notebook interface, using Python3 Programming Language for Data Science and Analytics. 
 
 Before running this file, you must have IDE: Jupyter Notebook installed in your computer or upload to Try JupyterLab.
-=======================================
+---------------------------------------
 How to Execute the Notebook:
 =======================================
 
