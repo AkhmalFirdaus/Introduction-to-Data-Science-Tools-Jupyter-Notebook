@@ -1,5 +1,12 @@
 # Introduction-to-Data-Science-Tools-Jupyter-Notebook
-A short brief to getting familiar and customization of basic Jupyter Notebook interface, using Python3 Programming Language for Data Science and Analytics. 
+A short brief to getting familiar and customization of basic Jupyter Notebook interface, using Python3 Programming Language for Data Science and Analytics. In this workbook, you can learn: 
+- The term string, interger
+- How to assign a value into a variable
+- How to print and recall all variable(s) 
+- How to insert images into workbook cells
+- How to run an Excel .csv file format and read the top 5 rows
+- How to insert links to redirect words into assigned links
+- ...and more.
 
 Before running this file, you must have IDE: [Jupyter Notebook](https://jupyter.org/install) installed in your computer or upload to [Try JupyterLab](https://jupyter.org/try).
 ---------------------------------------
