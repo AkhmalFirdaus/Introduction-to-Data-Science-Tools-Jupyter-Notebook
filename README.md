@@ -9,7 +9,7 @@ How to Execute the Notebook:
 2. Upload/Load all files into your Jupyter workstation, 
 3. Run all, 2021_12_06_class2.ipynb
 
-*You can also edit any codes for try and error experiment. Have fun!
+_You can also edit any codes for try and error experiment. Have fun!_
 =======================================
 .
 Feel free to Like and Share. Follow me for more projects to come!
