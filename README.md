@@ -11,6 +11,7 @@ A short brief to getting familiar and customization of basic Jupyter Notebook in
 
 Before running this file, you must have IDE: [Jupyter Notebook](https://jupyter.org/install) installed in your computer or upload to [Try JupyterLab](https://jupyter.org/try).
 ---------------------------------------
+*Click on the [blue](https://en.wikipedia.org/wiki/Blue#/media/File:Solid_blue.svg) colored text above for direct links.*
 
 How to Execute the Notebook:
 =======================================
