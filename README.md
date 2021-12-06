@@ -11,7 +11,7 @@ How to Execute the Notebook:
 
 _You can also edit any codes for try and error experiment. Have fun!_
 =======================================
-.
+
 Feel free to Like and Share. Follow me for more projects to come!
-.
+
 #thebestdna #mafdna2021 #designnanalytics
