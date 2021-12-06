@@ -8,8 +8,10 @@ A short brief to getting familiar and customization of basic Jupyter Notebook in
 - How to insert links to redirect words into assigned links
 - ...and more.
 
+
 Before running this file, you must have IDE: [Jupyter Notebook](https://jupyter.org/install) installed in your computer or upload to [Try JupyterLab](https://jupyter.org/try).
 ---------------------------------------
+
 How to Execute the Notebook:
 =======================================
 
@@ -19,6 +21,7 @@ How to Execute the Notebook:
 
 _You can also edit any codes for try and error experiment. Have fun!_
 =======================================
+
 
 Feel free to Like and Share. Follow me for more projects to come!
 
