@@ -20,7 +20,7 @@ How to Execute the Notebook:
 3. Run all, 2021_12_06_class2.ipynb
 
 _You can also edit any codes for try and error experiment. Have fun!_
-=======================================
+---------------------------------------
 
 
 Feel free to Like and Share. Follow me for more projects to come!
